@@ -15,11 +15,13 @@
 ##This project is a Text Summarization Tool designed to automatically generate concise summaries from long pieces of text. Using advanced Natural Language Processing (NLP) techniques, the tool extracts essential information while preserving the original meaning, making it easier to process large amounts of textual data efficiently.
 
 ##Features
+
 **Abstractive & Extractive Summarization** :Supports both methods-abstractive(where summaries are generated in a human-like way) and extractive(where key sentences are selected from the original text).
 **Customizable summary length** :Users can adjust the length of summaries based on their needs.
 **User-Friendly interface** :Built with a simple and intuitive design for easy interaction.
 
 ##Installation
+
 To set up the tool, follow these steps:
 ```bash
 git clone https://github.com/harshiniryali/TEXT-SUMMARIZATION-TOOL.git
