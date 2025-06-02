@@ -1,0 +1,27 @@
+# Core NLP and Machine Learning Libraries
+transformers>=4.0.0
+torch>=1.7.0
+tensorflow>=2.5.0
+numpy>=1.19.5
+
+# Text Processing Libraries
+nltk>=3.6.2
+spacy>=3.0.6
+sentencepiece>=0.1.96
+
+# Data Handling and Utilities
+pandas>=1.2.4
+scikit-learn>=0.24.2
+requests>=2.25.1
+
+# Model Deployment Options
+flask>=2.0.1
+gradio>=3.0.0
+
+# Performance Optimization
+tqdm>=4.62.3
+onnxruntime>=1.8.1
+
+# Additional Utilities
+python-dotenv>=0.19.0
+beautifulsoup4>=4.9.3
