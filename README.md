@@ -27,6 +27,7 @@ To set up the tool, follow these steps:
 git clone https://github.com/harshiniryali/TEXT-SUMMARIZATION-TOOL.git
 cd TEXT-SUMMARIZATION-TOOL
 pip install -r requirements.txt
+```
 
 ##Usage
 Run the tool using the following command:
@@ -39,3 +40,6 @@ python summarize.py --text "Your input text"
 
 ##Contributing
 Contributions are welcome! If you'd like to improve this tool, feel free to fork the repository, submit pull requests, or report issues.
+
+##Output
+
