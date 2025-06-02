@@ -17,7 +17,9 @@
 ##Features
 
 **Abstractive & Extractive Summarization** :Supports both methods-abstractive(where summaries are generated in a human-like way) and extractive(where key sentences are selected from the original text).
+
 **Customizable summary length** :Users can adjust the length of summaries based on their needs.
+
 **User-Friendly interface** :Built with a simple and intuitive design for easy interaction.
 
 ##Installation
@@ -37,7 +39,9 @@ python summarize.py --text "Your input text"
 ##How it works?
 
 **Preprocessing** :Cleans and tokenizes the input text.
+
 **Summarization model** :The trained model generates the summary using either extractive or abstractive techniques.
+
 **Post-Processing** :Ensures the output remains coherent and readable.
 
 ##Contributing
